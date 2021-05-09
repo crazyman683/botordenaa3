@@ -7,6 +7,7 @@ from discord import Activity, ActivityType
 
 
 
+
 #vasno
 intens = discord.Intents.all()
 
@@ -88,9 +89,10 @@ async def help_me(ctx, *,  question):
 
 
 
+ABOBA = "ODM5MTU1ODQxMTE0MzA4NzE4.YJFixw.VXOOCVIrafoaPiCiNejbg3FwcJc"
 
+client.run(ABOBA)
 
-client.run('ODM5MTU1ODQxMTE0MzA4NzE4.YJFixw.3JJYlH7WjQr61XwkKbSsHKGoRLg')
 
 
 
